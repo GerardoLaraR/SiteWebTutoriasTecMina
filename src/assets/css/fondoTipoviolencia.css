@@ -1,0 +1,42 @@
+.capa2:before {
+  content: "";
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  box-shadow: 0 -10px 600px #FEE7B1 inset;
+  background: linear-gradient(blue,pink);
+  opacity: 0.3;
+}
+
+#Principal {
+  text-align: center;
+  padding: 40px;
+}
+
+#PrincipalPage {
+  text-align: center;
+  padding: 40px;
+}
+
+#divprincipal {
+  text-align: center;
+  padding: 50px;
+}
+
+#divcartas {
+  padding: 20px;
+}
+
+#divpractica {
+  text-align: center;
+  /*align-items: center;*/
+  padding: 30px;
+}
+
+#itemopcion:hover {
+  background-color: pink;
+  color: pink;
+}
+

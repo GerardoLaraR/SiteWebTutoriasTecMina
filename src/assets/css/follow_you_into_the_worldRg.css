@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'follow_you_into_the_worldRg';
+	src: url(../../assets/fonts/followyouintotheworld-webfont.woff2) format('woff2'),
+	url(../../assets/fonts/followyouintotheworld-webfont.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}

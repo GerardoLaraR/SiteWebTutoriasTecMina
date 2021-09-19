@@ -1,0 +1,38 @@
+.mfp-hide {
+}
+
+.mfp-hide {
+  display: none !important;
+}
+
+button.mfp-close {
+  overflow: visible;
+  cursor: pointer;
+  background: white;
+  border: 0;
+  -webkit-appearance: none;
+  display: block;
+  z-index: 1046;
+}
+
+.mfp-close {
+  width: 44px;
+  height: 44px;
+  border-radius: 50px;
+  line-height: 44px;
+  position: absolute;
+  right: 40px;
+}
+
+#videostory2 {
+}
+
+#videostory2 {
+}
+
+body {
+}
+
+.box {
+}
+
